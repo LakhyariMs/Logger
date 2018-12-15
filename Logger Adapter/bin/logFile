@@ -1,0 +1,8 @@
+
+[14/12/2018 00:18:30:914] [DEBUG] (Logger.java:debug:328) test
+[14/12/2018 00:18:30:927] [INFO] (Logger.java:info:366) The program is started at Fri Dec 14 00:18:30 CET 2018
+[14/12/2018 00:18:31:933] [INFO] (Logger.java:info:366) The program is ended after 1011 ms
+[14/12/2018 00:19:10:582] [INFO] (Logger.java:info:366) The program is started at Fri Dec 14 00:19:10 CET 2018
+[14/12/2018 00:19:11:589] [INFO] (Logger.java:info:366) The program is ended after 1044 ms
+[14/12/2018 00:27:19:543] [INFO] (Logger.java:info:365) The program is started at Fri Dec 14 00:27:19 CET 2018
+[14/12/2018 00:27:20:550] [INFO] (Logger.java:info:365) The program is ended after 1046 ms
