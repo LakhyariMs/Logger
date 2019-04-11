@@ -15,3 +15,5 @@ CONSOLE :  afficher les logs seulement sur la console d'Eclipse
   - FILE : enregistrer les logs directement sur le fichier sans les afficher sur la console.
   - ALL : les logs seront affichés sur la console et enregistrer sur le fichier 
   - NB : Le mode d’affichage par défaut et ‘ALL’.
+
+
